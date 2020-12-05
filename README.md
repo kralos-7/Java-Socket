@@ -1,1 +1,3 @@
-# sockets-basico-java
+# Ejemplo básico: Sockets en java
+
+Cliente - Servidor
